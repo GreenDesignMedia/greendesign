@@ -5,38 +5,35 @@ body {
 
 :root {
   /* fonts */
-  --font-old-standard-tt: "Old Standard TT";
   --font-roboto: Roboto;
   --font-nunito: Nunito;
   --font-inter: Inter;
 
   /* font sizes */
-  --font-size-5xl: 24px;
-  --font-size-lgi: 19px;
+  --font-size-10xl: 29px;
   --font-size-21xl: 40px;
+  --font-size-5xl: 24px;
   --font-size-13xl: 32px;
+  --font-size-xl: 20px;
+  --font-size-base: 16px;
 
   /* Colors */
   --color-gray-100: #212121;
   --color-darkslategray: #303030;
-  --color-limegreen: #55c02e;
   --color-white: #fff;
+  --color-limegreen: #55c02e;
 
   /* Gaps */
-  --gap-70xl: 89px;
-  --gap-86xl: 105px;
+  --gap-103xl: 122px;
+  --gap-58xl: 77px;
+  --gap-30xl: 49px;
   --gap-xl: 20px;
-  --gap-43xl: 62px;
-  --gap-31xl: 50px;
 
   /* Paddings */
-  --padding-29xl: 48px;
   --padding-xl: 20px;
-  --padding-5xl: 24px;
-  --padding-10xl: 29px;
-  --padding-13xl: 32px;
-  --padding-12xl: 31px;
-  --padding-117xl: 136px;
+  --padding-2xl: 21px;
+  --padding-22xl: 41px;
+  --padding-mid: 17px;
 
   /* Border radiuses */
   --br-31xl: 50px;
